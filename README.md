@@ -8,7 +8,7 @@ Minha intenção foi estudar mais sobre HTM5 e CSS3.
 
 
 ## Deploy
-Veja o deploy do meu projeto por aqui: <a href="https://rodrigo-fn.github.io/alura-plus/">Alura+</a>. 🚀
+Veja o deploy do meu projeto por aqui: <a href="https://rodrigo-fn.github.io/alura-plus/">Alura+</a>. 😊
 
 
 ## 🛠 Tecnologias
